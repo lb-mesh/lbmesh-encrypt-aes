@@ -1,0 +1,35 @@
+{
+  "name": "lbmesh-encrypt-aes",
+  "version": "1.0.0",
+  "description": "AES Encryption Module for LB Mesh Command Line Interface",
+  "main": "lib/index.js",
+  "engines": {
+    "node": ">=8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lb-mesh/lbmesh-encrypt-aes.git"
+  },
+  "keywords": [
+    "lbmesh.io",
+    "loopback",
+    "lbmesh",
+    "encryption",
+    "AES",
+    "decryption"
+  ],
+  "author": "Jamil Spain <jamilhassanspain@gmail.com> (http://blog.iamjamilspain.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lb-mesh/lbmesh-encrypt-aes/issues"
+  },
+  "homepage": "https://github.com/lb-mesh/lbmesh-encrypt-aes#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "debug": "^4.1.1",
+    "utf8": "^3.0.0"
+  }
+}
