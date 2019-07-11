@@ -30,6 +30,8 @@
   "dependencies": {
     "crypto-js": "^3.1.9-1",
     "debug": "^4.1.1",
+    "jsonfile": "^5.0.0",
+    "jsontoxml": "^1.0.1",
     "utf8": "^3.0.0"
   }
 }
