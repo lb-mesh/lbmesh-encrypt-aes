@@ -1,6 +1,6 @@
 {
   "name": "lbmesh-encrypt-aes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AES Encryption Module for LB Mesh Command Line Interface",
   "main": "lib/index.js",
   "engines": {
