@@ -31,7 +31,7 @@
   },
   "homepage": "https://github.com/lb-mesh/lbmesh-encrypt-aes#readme",
   "dependencies": {
-    "crypto-js": "^3.1.9-1",
+    "crypto-js": "^4.2.0",
     "debug": "^4.1.1",
     "jsonfile": "^5.0.0",
     "jsontoxml": "^1.0.1",
